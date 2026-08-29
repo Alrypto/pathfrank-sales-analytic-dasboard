@@ -9,12 +9,18 @@ The dashboard allows users to monitor revenue, orders, quantity sold, customer t
 
 The goal of this project was to answer important business questions and help management understand **what is driving sales and where there are opportunities for improvement.**
 
-## 📊 Dashboard Preview
-<p align="center">
-  <img src="images/screenshot sales.png" alt="pathfrank-sales-analytic-dasboard" width="100%">
+<h2>📂 Dataset</h2>
+
+<p>
+The dataset contains sales transaction records used to analyze revenue,
+orders, products, customer types, regions, and sales channels.
 </p>
 
-![pathfrank-sales-analytic-dasboard]([Screenshot sales.png](https://github.com/Alrypto/pathfrank-sales-analytic-dasboard/blob/main/Screenshot%20sales.png))
+<p>
+  <a href="https://github.com/Alrypto/pathfrank-sales-analytic-dasboard/blob/main/Main%20Sales%20data.xlsx">
+    📥 View / Download Dataset
+  </a>
+</p>
 
 <h2>📊 Dashboard Preview</h2>
 
