@@ -16,3 +16,14 @@ The goal of this project was to answer important business questions and help man
 
 ![pathfrank-sales-analytic-dasboard]([Screenshot sales.png](https://github.com/Alrypto/pathfrank-sales-analytic-dasboard/blob/main/Screenshot%20sales.png))
 
+<h2>📊 Dashboard Preview</h2>
+
+<p align="center">
+  <a href="https://github.com/Alrypto/pathfrank-sales-analytic-dasboard/blob/main/Screenshot%20sales.png">
+    <img 
+      src="https://raw.githubusercontent.com/Alrypto/pathfrank-sales-analytic-dasboard/main/Screenshot%20sales.png"
+      alt="Pathfrank Sales Analytics Dashboard"
+      width="100%"
+    >
+  </a>
+</p>
