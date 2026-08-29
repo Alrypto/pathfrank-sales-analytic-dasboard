@@ -12,5 +12,7 @@ The goal of this project was to answer important business questions and help man
 ## 📊 Dashboard Preview
 <a href ="https://github.com/Alrypto/pathfrank-sales-analytic-dasboard/blob/main/Screenshot%20sales.png">
 <p align="center">
-  <img src="images/screenshot sales.png" alt="Sales Performance Dashboard" width="100%">
+  <img src="images/screenshot sales.png" alt="pathfrank-sales-analytic-dasboard" width="100%">
 </p>
+
+![pathfrank-sales-analytic-dasboard](Screenshot sales.png)
