@@ -10,5 +10,4 @@ The dashboard allows users to monitor revenue, orders, quantity sold, customer t
 The goal of this project was to answer important business questions and help management understand **what is driving sales and where there are opportunities for improvement.**
 
 ## 📊 Dashboard Preview
-
-! 
+<a href ="https://github.com/Alrypto/pathfrank-sales-analytic-dasboard/blob/main/Screenshot%20sales.png">
